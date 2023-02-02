@@ -1,0 +1,17 @@
+C:\Users\caxa_\Study\C#projects\PlusForGit\PlusForGit\bin\Debug\net6.0-windows\PlusForGit.exe
+C:\Users\caxa_\Study\C#projects\PlusForGit\PlusForGit\bin\Debug\net6.0-windows\PlusForGit.deps.json
+C:\Users\caxa_\Study\C#projects\PlusForGit\PlusForGit\bin\Debug\net6.0-windows\PlusForGit.runtimeconfig.json
+C:\Users\caxa_\Study\C#projects\PlusForGit\PlusForGit\bin\Debug\net6.0-windows\PlusForGit.dll
+C:\Users\caxa_\Study\C#projects\PlusForGit\PlusForGit\bin\Debug\net6.0-windows\PlusForGit.pdb
+C:\Users\caxa_\Study\C#projects\PlusForGit\PlusForGit\obj\Debug\net6.0-windows\PlusForGit.csproj.AssemblyReference.cache
+C:\Users\caxa_\Study\C#projects\PlusForGit\PlusForGit\obj\Debug\net6.0-windows\PlusForGit.Form1.resources
+C:\Users\caxa_\Study\C#projects\PlusForGit\PlusForGit\obj\Debug\net6.0-windows\PlusForGit.csproj.GenerateResource.cache
+C:\Users\caxa_\Study\C#projects\PlusForGit\PlusForGit\obj\Debug\net6.0-windows\PlusForGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caxa_\Study\C#projects\PlusForGit\PlusForGit\obj\Debug\net6.0-windows\PlusForGit.AssemblyInfoInputs.cache
+C:\Users\caxa_\Study\C#projects\PlusForGit\PlusForGit\obj\Debug\net6.0-windows\PlusForGit.AssemblyInfo.cs
+C:\Users\caxa_\Study\C#projects\PlusForGit\PlusForGit\obj\Debug\net6.0-windows\PlusForGit.csproj.CoreCompileInputs.cache
+C:\Users\caxa_\Study\C#projects\PlusForGit\PlusForGit\obj\Debug\net6.0-windows\PlusForGit.dll
+C:\Users\caxa_\Study\C#projects\PlusForGit\PlusForGit\obj\Debug\net6.0-windows\refint\PlusForGit.dll
+C:\Users\caxa_\Study\C#projects\PlusForGit\PlusForGit\obj\Debug\net6.0-windows\PlusForGit.pdb
+C:\Users\caxa_\Study\C#projects\PlusForGit\PlusForGit\obj\Debug\net6.0-windows\PlusForGit.genruntimeconfig.cache
+C:\Users\caxa_\Study\C#projects\PlusForGit\PlusForGit\obj\Debug\net6.0-windows\ref\PlusForGit.dll
