@@ -30,8 +30,12 @@ namespace PlusForGit
 
             textBox3.Text = c.ToString();
         }
+<<<<<<< HEAD
 
         private void button2_Click(object sender, EventArgs e)
+=======
+        private void button3_Click(object sender, EventArgs e)
+>>>>>>> session2
         {
             int a = 0, b = 0, c = 0;
 
